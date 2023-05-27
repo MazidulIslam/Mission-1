@@ -18,7 +18,7 @@
 
 // const result3 = createArray1<Name, boolean>({ name: "Bangladesh" }, false);
 
-// //Spread Operator
+//Spread Operator
 
 // // const newData = {...myInfo ,crush};
 // const addMeInMyCrushMind = <T>(myInfo: T) => {

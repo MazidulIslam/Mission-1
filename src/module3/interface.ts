@@ -39,13 +39,13 @@
 //   age: 2000,
 //   role: "Unknown",
 // };
-// // const userWithTypeAlias: User = {
-// //   name: "Type Alias",
-// //   age: 100,
-// // };
+// const userWithTypeAlias: User = {
+//   name: "Type Alias",
+//   age: 100,
+// };
 
-// // const userWithInterface: IUser = {
-// //   name: "Interface",
-// //   age: 200,
-// // };
-// // userWithInterface.
+// const userWithInterface: IUser = {
+//   name: "Interface",
+//   age: 200,
+// };
+// userWithInterface.
